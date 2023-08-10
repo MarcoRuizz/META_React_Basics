@@ -1,0 +1,21 @@
+-- REACT APP
+
+npm init react-app firstapp
+
+npm init react-app .
+
+cd firstapp
+
+npm start
+
+
+-- VITE
+npm create vite@latest
+
+cd proyecto
+
+npm init -y
+
+npm install
+
+npm run dev 
