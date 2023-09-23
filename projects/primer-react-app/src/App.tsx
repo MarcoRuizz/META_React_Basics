@@ -11,7 +11,7 @@ function App() {
   return (
     <>
       {/* importing the component */}
-      <Heading />
+      <Heading label="h1"/>
 
       {/* all the other stuff */}
       <div>
